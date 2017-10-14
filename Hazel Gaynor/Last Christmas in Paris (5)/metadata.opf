@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17acbc67-c560-4aa9-9f0f-c2309c8c69c8</dc:identifier>
+        <dc:title>Last Christmas in Paris</dc:title>
+        <dc:creator opf:file-as="Gaynor, Hazel" opf:role="aut">Hazel Gaynor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-17T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;New York Times bestselling author Hazel Gaynor has joined with Heather Webb to create this unforgettably romantic novel of the Great War.&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;August 1914. England is at war. As Evie Elliott watches her brother, Will, and his best friend, Thomas Harding, depart for the front, she believes&amp;#8212;as everyone does&amp;#8212;that it will be over by Christmas, when the trio plan to celebrate the holiday among the romantic cafes of Paris.&lt;/p&gt;&lt;p&gt;But as history tells us, it all happened so differently... &lt;/p&gt;&lt;p&gt;Evie and Thomas experience a very different war. Frustrated by life as a privileged young lady, Evie longs to play a greater part in the conflict&amp;#8212;but how?&amp;#8212;and as Thomas struggles with the unimaginable realities of war he also faces personal battles back home where War Office regulations on press reporting cause trouble at his father's newspaper business. Through their letters, Evie and Thomas share their greatest hopes and fears&amp;#8212;and grow ever...</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Hazel Gaynor&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-10-14T19:41:49.294000+00:00" name="calibre:timestamp"/>
+        <meta content="Last Christmas in Paris" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

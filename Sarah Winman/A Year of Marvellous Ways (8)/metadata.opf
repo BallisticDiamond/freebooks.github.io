@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd8af9d3-9bbf-452f-aa52-cae761c30280</dc:identifier>
+        <dc:title>A Year of Marvellous Ways</dc:title>
+        <dc:creator opf:file-as="Winman, Sarah" opf:role="aut">Sarah Winman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-17T23:00:00+00:00</dc:date>
+        <dc:publisher>Headline</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00SRXR3XE</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Sarah Winman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-10-14T19:42:23.904000+00:00" name="calibre:timestamp"/>
+        <meta content="Year of Marvellous Ways, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

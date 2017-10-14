@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Rules of Magic</title>
+  <id>urn:book:35417ffe-cfc7-411f-8026-6b8e5d1d04d9</id>
+  <updated>2017-10-14T03:41:53Z</updated>
+  <link href="./book_6.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Rules of Magic" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Alice%20Hoffman/The%20Rules%20of%20Magic%20%286%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Alice%20Hoffman/The%20Rules%20of%20Magic%20%286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Alice%20Hoffman/The%20Rules%20of%20Magic%20%286%29/The%20Rules%20of%20Magic%20-%20Alice%20Hoffman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <author>
+    <name>Alice Hoffman</name>
+    <uri>../author_0/author_5_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Simon &amp; Schuster</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      From beloved author Alice Hoffman comes the spellbinding
+    prequel to her bestseller,
+      <i>Practical Magic</i>
+      .
+      <br />
+      <i>Find your magic</i>
+      .
+      <br />
+      <br />
+      For the Owens family, love is a curse that began in 1620,
+    when Maria Owens was charged with witchery for loving the wrong
+    man.
+      <br />
+      <br />
+      Hundreds of years later, in New York City at the cusp of
+    the sixties, when the whole world is about to change, Susanna
+    Owens knows that her three children are dangerously unique.
+    Difficult Franny, with skin as pale as milk and blood red hair,
+    shy and beautiful Jet, who can read other people's thoughts,
+    and charismatic Vincent, who began looking for trouble on the
+    day he could walk.
+      <br />
+      <br />
+      From the start Susanna sets down rules for her children:
+    No walking in the moonlight, no red shoes, no wearing black, no
+    cats, no crows, no candles, no books about magic. And most
+    importantly, never, ever, fall in love. But when her children
+    visit their Aunt Isabelle, in the small Massachusetts town
+    where the Owens family...
+    </p>
+  </content>
+  <link href="../author_0/author_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Alice Hoffman" />
+  <link href="http://www.goodreads.com/book/title/The%20Rules%20of%20Magic" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Rules%20of%20Magic" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Rules%20of%20Magic%20Alice%20Hoffman" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Rules%20of%20Magic&amp;field-author=Alice%20Hoffman" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Alice%20Hoffman" type="text/html" rel="related" title="Alice Hoffman on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Alice%20Hoffman" type="text/html" rel="related" title="Alice Hoffman on Wikipedia" />
+  <link href="http://www.librarything.com/author/HoffmanAlice" type="text/html" rel="related" title="Alice Hoffman on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Alice%20Hoffman" type="text/html" rel="related" title="Alice Hoffman on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Alice%20Hoffman" type="text/html" rel="related" title="Alice Hoffman on ISFDB" />
+</entry>

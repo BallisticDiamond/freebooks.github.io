@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ec87d65-0d5f-44c8-afd4-9a980c45666a</dc:identifier>
+        <dc:title>The Girl Who Takes an Eye for an Eye: Continuing Stieg Larsson's Millennium Series</dc:title>
+        <dc:creator opf:file-as="Lagercrantz, David" opf:role="aut">David Lagercrantz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-06T18:30:00+00:00</dc:date>
+        <dc:publisher>Quercus</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01LX8OSYH</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;David Lagercrantz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-10-14T20:42:24.368000+00:00" name="calibre:timestamp"/>
+        <meta content="Girl Who Takes an Eye for an Eye: Continuing Stieg Larsson's Millennium Series, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
