@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eedd8843-94ae-457b-a11b-2469292538c0</dc:identifier>
+        <dc:title>The Lightkeeper's Daughters</dc:title>
+        <dc:creator opf:file-as="Pendziwol, Jean E." opf:role="aut">Jean E. Pendziwol</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;"Jean Pendziwol's beautifully written novel captured me from the very first page. Its descriptions of the windswept lightkeeper's station of Elizabeth's and Emily's youth are so crisply rendered I felt I was standing on its shores watching the great ships cross the stormy waters of Lake Superior. Even more than its vivid evocation of a unique time and place, The LightKeeper's Daughters is a sensitive and moving examination of the nature of identity, the importance of family, and the possibility of second chances."&amp;#8212;Heather Young, author of The Lose Girls&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;With the haunting atmosphere and emotional power of The Language of Flowers, Orphan Train, and The Light Between Oceans, critically acclaimed children's author Jean E. Pendziwol's adult debut is an affecting story of family, identity, and art that involves a decades-old mystery.&lt;/p&gt;&lt;p&gt;Though her mind is still sharp, Elizabeth's eyes have failed. No longer able to linger over her beloved books or gaze...</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Jean E. Pendziwol&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-10-14T20:42:23.643000+00:00" name="calibre:timestamp"/>
+        <meta content="Lightkeeper's Daughters, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5600c637-4972-45ee-a747-4f153eb54290</dc:identifier>
+        <dc:title>Art &amp; Soul, Reloaded</dc:title>
+        <dc:creator opf:file-as="Grout, Pam" opf:role="aut">Pam Grout</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-22T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;With her trademark humor, enthusiasm, and no-nonsense guidance, #1 &lt;i&gt;New York Times&lt;/i&gt; best-selling author of &lt;i&gt;E-Squared&lt;/i&gt; &lt;b&gt;Pam Grout&lt;/b&gt; invites you on a yearlong "apprenticeship" to recognize and unleash your innate creativity.&lt;p&gt;Making art does not necessarily mean painting a gallery-worthy still life or belting out a Grammy-winning song. It simply means finding a way to give your inner muse a voice in this world. Sure, there's drawing, dancing, singing, and writing. But there's also art to be made from creating your own pair of angel wings or inventing a new toy or curating your own at-home film festival.&lt;p&gt;Each week features a project of self-examination, an inspirational message, a real-world example of a celebrity who has addressed similar obstacles, and three zany activities to awaken your infinite creativity.&lt;p&gt;It's time to declare the beat of your own drum.</dc:description>
+        <dc:publisher>Hay House</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Pam Grout&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-10-14T20:42:26.460000+00:00" name="calibre:timestamp"/>
+        <meta content="Art &amp; Soul, Reloaded" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc6cc7ed-8af5-4088-ba2a-0c8d0f2be1d3</dc:identifier>
+        <dc:title>The Luster of Lost Things</dc:title>
+        <dc:creator opf:file-as="Keller, Sophie Chen" opf:role="aut">Sophie Chen Keller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-08T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;In this story for readers of &lt;i&gt;The Curious Incident of the Dog in the Night-Time &lt;/i&gt;and &lt;i&gt;A Man Called Ove&lt;/i&gt;, when all seems lost, he finds what matters most.&lt;/b&gt;&lt;br&gt;Walter Lavender Jr. is a master of finding. A wearer of high-tops. A maker of croissants. A son keeping vigil, twelve years counting.&lt;br&gt; &lt;br&gt; But he wouldn't be able to tell you. Silenced by his motor speech disorder, Walter's life gets lonely. Fortunately, he has The Lavenders&amp;#8212;his mother's enchanted dessert shop, where marzipan dragons breathe actual fire. He also has a knack for tracking down any missing thing&amp;#8212;except for his lost father.&lt;br&gt; &lt;br&gt; So when the Book at the root of the bakery's magic vanishes, Walter, accompanied by his overweight golden retriever, journeys through New York City to find it&amp;#8212;along the way encountering an unforgettable cast of lost souls.&lt;br&gt; &lt;br&gt; Steeped in nostalgic wonder, &lt;i&gt;The Luster of Lost Things&lt;/i&gt; explores the depths of our capacity for kindness and...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Sophie Chen Keller&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-10-14T20:42:23.231000+00:00" name="calibre:timestamp"/>
+        <meta content="Luster of Lost Things, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

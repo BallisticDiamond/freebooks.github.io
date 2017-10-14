@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e73989d0-1950-4831-9973-16870b740735</dc:identifier>
+        <dc:title>All the Crooked Saints</dc:title>
+        <dc:creator opf:file-as="Stiefvater, Maggie" opf:role="aut">Maggie Stiefvater</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-14T18:00:00+00:00</dc:date>
+        <dc:description>&lt;i&gt;Here is a thing everyone wants: A miracle. Here is a thing everyone fears:What it takes to get one.&lt;/i&gt; Any visitor to Bicho Raro, Colorado is likely to find a landscape of dark saints, forbidden love, scientific dreams, miracle-mad owls, estranged affections, one or two orphans, and a sky full of watchful desert stars. At the heart of this place you will find the Soria family, who all have the ability to perform unusual miracles. And at the heart of this family are three cousins longing to change its future: Beatriz, the girl without feelings, who wants only to be free to examine her thoughts; Daniel, the Saint of Bicho Raro, who performs miracles for everyone but himself; and Joaquin, who spends his nights running a renegade radio station under the name Diablo Diablo. They are all looking for a miracle. But the miracles of Bicho Raro are never quite what you expect. Maggie Stiefvater has been called "a master storyteller" by &lt;i&gt;USA Today&lt;/i&gt; and "wildly imaginative" by...</dc:description>
+        <dc:publisher>Scholastic Inc.</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Maggie Stiefvater&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-10-14T20:42:21.685000+00:00" name="calibre:timestamp"/>
+        <meta content="All the Crooked Saints" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

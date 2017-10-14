@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c83837ab-7b3d-490e-88c7-9d0ed7996f78</dc:identifier>
+        <dc:title>Faithful</dc:title>
+        <dc:creator opf:file-as="Hoffman, Alice" opf:role="aut">Alice Hoffman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>From the &lt;i&gt;New York Times&lt;/i&gt; bestselling author of &lt;i&gt;The Marriage of Opposites&lt;/i&gt; and &lt;i&gt;The Dovekeepers&lt;/i&gt; comes a soul-searching story about a young woman struggling to redefine herself and the power of love, family, and fate.&lt;BR&gt;Growing up on Long Island, Shelby Richmond is an ordinary girl until one night an extraordinary tragedy changes her fate. Her best friend's future is destroyed in an accident, while Shelby walks away with the burden of guilt.&lt;BR&gt; &lt;BR&gt;What happens when a life is turned inside out? When love is something so distant it may as well be a star in the sky? &lt;i&gt;Faithful&lt;/i&gt; is the story of a survivor, filled with emotion&amp;#8212;from dark suffering to true happiness&amp;#8212;a moving portrait of a young woman finding her way in the modern world. A fan of Chinese food, dogs, bookstores, and men she should stay away from, Shelby has to fight her way back to her own future. In New York City she finds a circle of lost and found souls&amp;#8212;including an angel who's...</dc:description>
+        <dc:publisher>Simon &amp; Schuster</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Alice Hoffman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-10-14T20:42:22.213000+00:00" name="calibre:timestamp"/>
+        <meta content="Faithful" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

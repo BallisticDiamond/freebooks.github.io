@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ecb729a-a4e3-45d5-815d-7c76d01ecfd1</dc:identifier>
+        <dc:title>The History of Bees</dc:title>
+        <dc:creator opf:file-as="Lunde, Maja" opf:role="aut">Maja Lunde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>In the spirit of &lt;i&gt;Station Eleven&lt;/i&gt; and &lt;i&gt;Never Let Me Go&lt;/i&gt;, this dazzling and ambitious literary debut follows three generations of beekeepers from the past, present, and future, weaving a spellbinding story of their relationship to the bees&amp;#8212;and to their children and one another&amp;#8212;against the backdrop of an urgent, global crisis.&lt;BR&gt;England, 1852. William is a biologist and seed merchant, who sets out to build a new type of beehive&amp;#8212;one that will give both him and his children honor and fame.&lt;BR&gt; &lt;BR&gt;United States, 2007. George is a beekeeper fighting an uphill battle against modern farming, but hopes that his son can be their salvation.&lt;BR&gt; &lt;BR&gt;China, 2098. Tao hand paints pollen onto the fruit trees now that the bees have long since disappeared. When Tao's young son is taken away by the authorities after a tragic accident, she sets out on a grueling journey to find out what happened to him.&lt;BR&gt; &lt;BR&gt;Haunting, illuminating, and deftly written, &lt;i&gt;The History...</dc:description>
+        <dc:publisher>Touchstone</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Maja Lunde&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-10-14T20:42:23.940000+00:00" name="calibre:timestamp"/>
+        <meta content="History of Bees, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

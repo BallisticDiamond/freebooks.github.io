@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f2dbafe-2697-4d1d-bd5c-0b7dc95ad042</dc:identifier>
+        <dc:title>The Dead Husband Project</dc:title>
+        <dc:creator opf:file-as="Sirk, Sarah Meehan" opf:role="aut">Sarah Meehan Sirk</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-08T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;Perfect for readers of George Saunders, Jennifer Egan and Heather O'Neill, a rich and inventive collection of exquisite short stories by a major newcomer to Canadian literature.&lt;/b&gt;&lt;br&gt;In this deeply felt, compulsive and edgy work, Sarah Meehan Sirk shines a distinctive light on love and death in their many incarnations, pushing against the limits of the absurd while exposing piercing emotional truths about what it means to be gloriously, maddeningly alive. &lt;br&gt; In "The Dead Husband Project," an artist who has planned to make an installation out of her terminally ill husband's dead body has to recalibrate when his diagnosis changes. In "The Date," an online dating match takes an unusual turn when the man who shows up to the restaurant has no face. In "Ozk," a young girl longs to connect with her socially isolated mother, a professor of mathematics who makes a radical discovery.&lt;br&gt; Uncanny, sometimes violent, achingly sad and always profound, these stories showcase a writer...</dc:description>
+        <dc:publisher>Doubleday Canada</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Sarah Meehan Sirk&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-10-14T20:42:25.711000+00:00" name="calibre:timestamp"/>
+        <meta content="Dead Husband Project, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

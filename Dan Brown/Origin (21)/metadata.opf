@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">802fde89-68ca-46af-8aa6-07cfa125dc4f</dc:identifier>
+        <dc:title>Origin</dc:title>
+        <dc:creator opf:file-as="Brown, Dan" opf:role="aut">Dan Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-02T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Whoever You Are. &lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Whatever You Believe. &lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Everything Is About To Change.&lt;/strong&gt; &lt;br&gt;
+&lt;strong&gt;&lt;br&gt;
+The stunningly inventive new novel from the world’s most popular thriller writer&lt;/strong&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;&lt;em&gt;Bilbao, Spain&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;br&gt;
+Robert Langdon, Harvard professor of symbology and religious iconology, arrives at the ultramodern Guggenheim Museum Bilbao to attend a major announcement—the unveiling of a discovery that “will change the face of science forever.” The evening’s host is Edmond Kirsch, a forty-year-old billionaire and futurist whose dazzling high-tech inventions and audacious predictions have made him a renowned global figure. Kirsch, who was one of Langdon’s first students at Harvard two decades earlier, is about to reveal an astonishing breakthrough . . . one that will answer two of the fundamental questions of human existence.&lt;br&gt;
+     As the event begins, Langdon and several hundred guests find themselves captivated by an utterly original presentation, which Langdon realizes will be far more controversial than he ever imagined. But the meticulously orchestrated evening suddenly erupts into chaos, and Kirsch’s precious discovery teeters on the brink of being lost forever. Reeling and facing an imminent threat, Langdon is forced into a desperate bid to escape Bilbao. With him is Ambra Vidal, the elegant museum director who worked with Kirsch to stage the provocative event. Together they flee to Barcelona on a perilous quest to locate a cryptic password that will unlock Kirsch’s secret.&lt;br&gt;
+     Navigating the dark corridors of hidden history and extreme religion, Langdon and Vidal must evade a tormented enemy whose all-knowing power seems to emanate from Spain’s Royal Palace itself . . . and who will stop at nothing to silence Edmond Kirsch. On a trail marked by modern art and enigmatic symbols, Langdon and Vidal uncover clues that ultimately bring them face-to-face with Kirsch’s shocking discovery . . . and the breathtaking truth that has long eluded us.&lt;br&gt;
+&lt;br&gt;
+&lt;em&gt;Origin&lt;/em&gt; is stunningly inventive—Dan Brown's most brilliant and entertaining novel to date.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Doubleday</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01LY7FD0D</dc:identifier>
+        <dc:identifier opf:scheme="FF">b/dan-brown/origin</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">32283133</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0385514239</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780385514231</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">vgBMvgAACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta content="{&quot;Dan Brown&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Robert Langdon" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2017-10-14T20:42:26.218000+00:00" name="calibre:timestamp"/>
+        <meta content="Origin" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

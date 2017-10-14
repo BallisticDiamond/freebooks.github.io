@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c11dc91-bc9d-4909-a3b9-986d08e158e6</dc:identifier>
+        <dc:title>My Lovely Wife in the Psych Ward</dc:title>
+        <dc:creator opf:file-as="Lukach, Mark" opf:role="aut">Mark Lukach</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;A heart-wrenching, yet hopeful, memoir of a young marriage that is redefined by mental illness and affirms the power of love.&lt;/p&gt;&lt;p&gt;Mark and Giulia's life together began as a storybook romance. The fell in love at eighteen, married at twenty-four, and were living their dream life in San Francisco. When Giulia was twenty-seven, she suffered a terrifying and unexpected psychotic break that landed her in the psych ward for nearly a month. One day she was vibrant and well-adjusted; the next she was delusional and suicidal, convinced that she was the devil and that her loved ones were not safe. All she wanted was to die.&lt;/p&gt;&lt;p&gt;Eventually, Giulia fully recovered, and the couple had a son. But, soon after Jonas was born, Giulia had another breakdown, and then a third a few years after that. Pushed to the edge of the abyss, everything the couple had once taken for granted was upended. &lt;/p&gt;&lt;p&gt;A story of the fragility of the mind, and the tenacity of the human spirit, My Lovely Wife in...</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Mark Lukach&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-10-14T20:42:22.920000+00:00" name="calibre:timestamp"/>
+        <meta content="My Lovely Wife in the Psych Ward" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
