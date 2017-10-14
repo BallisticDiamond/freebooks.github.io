@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Time to Say Goodbye</title>
+  <id>urn:book:58b9b584-63b6-4a47-9ab4-9dca43d4189c</id>
+  <updated>2017-10-14T03:41:33Z</updated>
+  <link href="./book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Time to Say Goodbye" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../S.D.%20Robertson/Time%20to%20Say%20Goodbye%20%282%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../S.D.%20Robertson/Time%20to%20Say%20Goodbye%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../S.D.%20Robertson/Time%20to%20Say%20Goodbye%20%282%29/Time%20to%20Say%20Goodbye%20-%20S.D.%20Robertson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <author>
+    <name>S.D. Robertson</name>
+    <uri>../author_0/author_1_Page_1.xml</uri>
+  </author>
+  <published>2015-10-15T02:41:18Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>HarperCollins Publishers</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">**'A strong contender for my favourite book of the year ...
+    Emotional, heart-warming, tragic, bittersweet, charming and
+    very, very satisfying.' - Silver Thistle book blog** A
+    heart-rending story about the unique bond between a father and
+    his daughter, for fans of JOJO MOYES and JOHN GREEN HOW DO YOU
+    LEAVE THE PERSON YOU LOVE THE MOST? Will Curtis's six-year-old
+    daughter, Ella, knows her father will never leave her. After
+    all, he promised her so when her mother died. And he's going to
+    do everything he can to keep his word. What Will doesn't know
+    is that the promise he made to his little girl might be harder
+    to keep than he imagined. When he's faced with an impossible
+    decision, Will finds that the most obvious choice might not be
+    the right one. But the future is full of unexpected surprises.
+    And father and daughter are about to embark on an unforgettable
+    journey together . . . Here's what readers are saying about
+    TIME TO SAY GOODBYE: 'Heart-achingly good, with
+    laugh-out-loud...</p>
+  </content>
+  <link href="../author_0/author_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by S.D. Robertson" />
+  <link href="http://www.goodreads.com/book/title/Time%20to%20Say%20Goodbye" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Time%20to%20Say%20Goodbye" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Time%20to%20Say%20Goodbye%20S.D.%20Robertson" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Time%20to%20Say%20Goodbye&amp;field-author=S.D.%20Robertson" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/S.D.%20Robertson" type="text/html" rel="related" title="S.D. Robertson on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/S.D.%20Robertson" type="text/html" rel="related" title="S.D. Robertson on Wikipedia" />
+  <link href="http://www.librarything.com/author/RobertsonS.D." type="text/html" rel="related" title="S.D. Robertson on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=S.D.%20Robertson" type="text/html" rel="related" title="S.D. Robertson on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?S.D.%20Robertson" type="text/html" rel="related" title="S.D. Robertson on ISFDB" />
+</entry>

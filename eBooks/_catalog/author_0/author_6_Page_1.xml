@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Rhiannon Frater</title>
+  <id>Calibre2opds:author:6</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_6_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Rhiannon Frater" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Dead Spots</title>
+    <id>calibre:book:7</id>
+    <updated>2017-10-14T03:42:23Z</updated>
+    <link href="../../Rhiannon%20Frater/Dead%20Spots%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rhiannon%20Frater/Dead%20Spots%20%287%29/Dead%20Spots%20-%20Rhiannon%20Frater.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Rhiannon Frater</name>
+      <uri>../author_0/author_6_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Tom Doherty Associates</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The stillbirth of Mackenzie's son destroyed her marriage. Grieving, Mac reluctantly heads for her childhood home to seek refuge with her mother, who constantly reminds her of life's dangers.Driving across Texas, Mac swerves to avoid hitting a deer......</summary>
+    <link href="../book_0/book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

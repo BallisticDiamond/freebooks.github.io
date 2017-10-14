@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b457031-17f4-4213-a1cb-c871a2fa69ea</dc:identifier>
+        <dc:title>Dead Spots</dc:title>
+        <dc:creator opf:file-as="Frater, Rhiannon" opf:role="aut">Rhiannon Frater</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;The stillbirth of Mackenzie's son destroyed her marriage. Grieving, Mac reluctantly heads for her childhood home to seek refuge with her mother, who constantly reminds her of life's dangers.&lt;BR&gt;Driving across Texas, Mac swerves to avoid hitting a deer...and winds up in a dead spot, a frightening place that lies between the worlds of the living and the dead. If they can control their imaginations, people can literally bring their dreams to life&amp;#8212;but most are besieged by fears and nightmares which pursue them relentlessly. &lt;BR&gt;Mackenzie's mother and husband haunt her, driving her to the brink of madness. Then she hears a child call for help and her maternal instincts kick into overdrive. Grant, Mac's ally in the dead spots, insists Johnny is a phantom, but the boy seems so real, so alive....&lt;BR&gt;As the true horrors of the dead spots are slowly revealed, Mackenzie realizes that time is running out. But exits from the dead spots are nearly impossible to find, and defended by...</dc:description>
+        <dc:publisher>Tom Doherty Associates</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781466831247</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Rhiannon Frater&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-10-14T19:42:21.918000+00:00" name="calibre:timestamp"/>
+        <meta content="Dead Spots" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

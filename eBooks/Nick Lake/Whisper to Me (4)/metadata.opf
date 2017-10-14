@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">657bf9fe-0ff9-43ea-bd66-96aa380ba3d0</dc:identifier>
+        <dc:title>Whisper to Me</dc:title>
+        <dc:creator opf:file-as="Lake, Nick" opf:role="aut">Nick Lake</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-02T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;A remarkable story of strange beauty and self-discovery from Printz Award winner Nick Lake.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cassie is writing a letter to the boy whose heart she broke. She's trying to explain why. Why she pushed him away. Why her father got so angry when he saw them together. Why she disappears some nights. Why she won't let herself remember what happened that long-ago night on the boardwalk. Why she fell apart so completely.&lt;/p&gt;
+&lt;p&gt;Desperate for his forgiveness, she's telling the whole story of the summer she nearly lost herself. She's hoping that love-love for your family, love for that person who makes your heart beat faster, and love for yourself-can save both of them after all.&lt;/p&gt;
+&lt;p&gt;Awards for &lt;em&gt;There Will Be Lies&lt;/em&gt;&lt;br&gt;
+A &lt;em&gt;Boston Globe&lt;/em&gt; Best YA Book of 2015&lt;br&gt;
+A Texas TAYSHAS Pick&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"Cassie’s charming, self-deprecating narrative and the insight into her mental health are engrossing and moving." ―&lt;em&gt;Booklist&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Perplexing and disorienting, full of the rich language and heady epiphanies readers have come to expect from the Printz-award winning author." ―starred review, &lt;em&gt;School Library Journal on THERE WILL BE LIES&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Impressively unpredictable--a motley mix of taut thriller, transportive fantasy, and poignant coming-of-age . . . Shelby narrates the surreal implosion of her life in an indignant, funny voice, à la Judy Blume." ―&lt;em&gt;Entertainment Weekly on THERE WILL BE LIES&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"A rare joy to behold." ―&lt;em&gt;Booklist on THERE WILL BE LIES&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Suspenseful, complicated . . . A fine exploration of the power of story itself." ―&lt;em&gt;Kirkus Reviews on THERE WILL BE LIES&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Lake returns to the mix of reality and fantasy he used to great success in his Printz-winning &lt;em&gt;In Darkness&lt;/em&gt; . . . Shelby is highly sympathetic." ―&lt;em&gt;Publishers Weekly on THERE WILL BE LIES&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"A twisty drama suffused with elements of folklore." ―&lt;em&gt;Wall Street Journal on THERE WILL BE LIES&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"A strange and beautiful story that truly deserves to be read. Do not hesitate to add this to your collection." ―&lt;em&gt;VOYA on THERE WILL BE LIES&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"A resonant story of survival." ―&lt;em&gt;BCCB on THERE WILL BE LIES&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Lake continues to practice his craft at a high level." ―&lt;em&gt;The Horn Book on THERE WILL BE LIES&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"Vivid and poignant." ―starred review, &lt;em&gt;School Library Journal on HOSTAGE THREE&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;"A startling but successful feat of literary imagination." ―starred review, &lt;em&gt;Publishers Weekly on IN DARKNESS&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Nick Lake &lt;/strong&gt;is the much-acclaimed author of &lt;em&gt;In Darkness&lt;/em&gt;, winner of the Michael L. Printz Award, &lt;em&gt;Hostage Three&lt;/em&gt;, which received three starred reviews and was named a &lt;em&gt;Publishers Weekly&lt;/em&gt;, &lt;em&gt;School Library Journal&lt;/em&gt;, and &lt;em&gt;Boston Globe &lt;/em&gt;Best Book of the Year, and &lt;em&gt;There Will Be Lies&lt;/em&gt;. He is also the Publishing Director for fiction at HarperCollins Children's Books UK. Nick lives near Oxford, England. &lt;/p&gt;
+&lt;p&gt;www.in-darkness.org&lt;br&gt;
+@nicklakeauthor&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bloomsbury Publishing</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01DB0GURW</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Nick Lake&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2017-10-14T19:41:35.394000+00:00" name="calibre:timestamp"/>
+        <meta content="Whisper to Me" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Dead Spots</title>
+  <id>urn:book:2b457031-17f4-4213-a1cb-c871a2fa69ea</id>
+  <updated>2017-10-14T03:42:23Z</updated>
+  <link href="./book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Dead Spots" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Rhiannon%20Frater/Dead%20Spots%20%287%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Rhiannon%20Frater/Dead%20Spots%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Rhiannon%20Frater/Dead%20Spots%20%287%29/Dead%20Spots%20-%20Rhiannon%20Frater.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <author>
+    <name>Rhiannon Frater</name>
+    <uri>../author_0/author_6_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Tom Doherty Associates</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      The stillbirth of Mackenzie's son destroyed her marriage.
+    Grieving, Mac reluctantly heads for her childhood home to seek
+    refuge with her mother, who constantly reminds her of life's
+    dangers.
+      <br />
+      Driving across Texas, Mac swerves to avoid hitting a
+    deer...and winds up in a dead spot, a frightening place that
+    lies between the worlds of the living and the dead. If they can
+    control their imaginations, people can literally bring their
+    dreams to life—but most are besieged by fears and
+    nightmares which pursue them relentlessly.
+      <br />
+      Mackenzie's mother and husband haunt her, driving her to
+    the brink of madness. Then she hears a child call for help and
+    her maternal instincts kick into overdrive. Grant, Mac's ally
+    in the dead spots, insists Johnny is a phantom, but the boy
+    seems so real, so alive....
+      <br />
+      As the true horrors of the dead spots are slowly
+    revealed, Mackenzie realizes that time is running out. But
+    exits from the dead spots are nearly impossible to find, and
+    defended by...
+    </p>
+  </content>
+  <link href="../author_0/author_6_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Rhiannon Frater" />
+  <link href="http://www.goodreads.com/book/title/Dead%20Spots" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Dead%20Spots" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Dead%20Spots%20Rhiannon%20Frater" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Dead%20Spots&amp;field-author=Rhiannon%20Frater" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Rhiannon%20Frater" type="text/html" rel="related" title="Rhiannon Frater on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Rhiannon%20Frater" type="text/html" rel="related" title="Rhiannon Frater on Wikipedia" />
+  <link href="http://www.librarything.com/author/FraterRhiannon" type="text/html" rel="related" title="Rhiannon Frater on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Rhiannon%20Frater" type="text/html" rel="related" title="Rhiannon Frater on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Rhiannon%20Frater" type="text/html" rel="related" title="Rhiannon Frater on ISFDB" />
+</entry>

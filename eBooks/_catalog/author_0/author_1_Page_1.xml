@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>S.D. Robertson</title>
+  <id>Calibre2opds:author:1</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="S.D. Robertson" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Time to Say Goodbye</title>
+    <id>calibre:book:2</id>
+    <updated>2017-10-14T03:41:33Z</updated>
+    <link href="../../S.D.%20Robertson/Time%20to%20Say%20Goodbye%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../S.D.%20Robertson/Time%20to%20Say%20Goodbye%20%282%29/Time%20to%20Say%20Goodbye%20-%20S.D.%20Robertson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>S.D. Robertson</name>
+      <uri>../author_0/author_1_Page_1.xml</uri>
+    </author>
+    <published>2015-10-15T02:41:18Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins Publishers</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>**'A strong contender for my favourite book of the year ... Emotional, heart-warming, tragic, bittersweet, charming and very, very satisfying.' - Silver Thistle book blog** A heart-rending story about the unique bond between a father and his daughter...</summary>
+    <link href="../book_0/book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
