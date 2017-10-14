@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>David Lagercrantz</title>
+  <id>Calibre2opds:author:14</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="David Lagercrantz" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>The Girl Who Takes an Eye for an Eye: Continuing Stieg Larsson's Millennium Series</title>
+    <id>calibre:book:16</id>
+    <updated>2017-10-14T04:42:24Z</updated>
+    <link href="../../David%20Lagercrantz/The%20Girl%20Who%20Takes%20an%20Eye%20for%20an%20Eye%20%2816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Lagercrantz/The%20Girl%20Who%20Takes%20an%20Eye%20for%20an%20Eye%20%2816%29/The%20Girl%20Who%20Takes%20an%20Eye%20for%20a%20-%20David%20Lagercrantz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>David Lagercrantz</name>
+      <uri>../author_0/author_14_Page_1.xml</uri>
+    </author>
+    <published>2017-09-06T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Quercus</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

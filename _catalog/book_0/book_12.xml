@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>My Lovely Wife in the Psych Ward</title>
+  <id>urn:book:6c11dc91-bc9d-4909-a3b9-986d08e158e6</id>
+  <updated>2017-10-14T04:42:23Z</updated>
+  <link href="./book_12.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="My Lovely Wife in the Psych Ward" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Mark%20Lukach/My%20Lovely%20Wife%20in%20the%20Psych%20Ward%20%2812%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Mark%20Lukach/My%20Lovely%20Wife%20in%20the%20Psych%20Ward%20%2812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Mark%20Lukach/My%20Lovely%20Wife%20in%20the%20Psych%20Ward%20%2812%29/My%20Lovely%20Wife%20in%20the%20Psych%20War%20-%20Mark%20Lukach.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <author>
+    <name>Mark Lukach</name>
+    <uri>../author_0/author_10_Page_1.xml</uri>
+  </author>
+  <published>2017-05-02T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>HarperCollins</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">A heart-wrenching, yet hopeful, memoir of a young marriage
+    that is redefined by mental illness and affirms the power of
+    love.</p>
+    <p xmlns="">Mark and Giulia's life together began as a storybook
+    romance. The fell in love at eighteen, married at twenty-four,
+    and were living their dream life in San Francisco. When Giulia
+    was twenty-seven, she suffered a terrifying and unexpected
+    psychotic break that landed her in the psych ward for nearly a
+    month. One day she was vibrant and well-adjusted; the next she
+    was delusional and suicidal, convinced that she was the devil
+    and that her loved ones were not safe. All she wanted was to
+    die.</p>
+    <p xmlns="">Eventually, Giulia fully recovered, and the couple had a
+    son. But, soon after Jonas was born, Giulia had another
+    breakdown, and then a third a few years after that. Pushed to
+    the edge of the abyss, everything the couple had once taken for
+    granted was upended.</p>
+    <p xmlns="">A story of the fragility of the mind, and the tenacity of
+    the human spirit, My Lovely Wife in...</p>
+  </content>
+  <link href="../author_0/author_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Mark Lukach" />
+  <link href="http://www.goodreads.com/book/title/My%20Lovely%20Wife%20in%20the%20Psych%20Ward" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/My%20Lovely%20Wife%20in%20the%20Psych%20Ward" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/My%20Lovely%20Wife%20in%20the%20Psych%20Ward%20Mark%20Lukach" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=My%20Lovely%20Wife%20in%20the%20Psych%20Ward&amp;field-author=Mark%20Lukach" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Mark%20Lukach" type="text/html" rel="related" title="Mark Lukach on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Mark%20Lukach" type="text/html" rel="related" title="Mark Lukach on Wikipedia" />
+  <link href="http://www.librarything.com/author/LukachMark" type="text/html" rel="related" title="Mark Lukach on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Mark%20Lukach" type="text/html" rel="related" title="Mark Lukach on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Mark%20Lukach" type="text/html" rel="related" title="Mark Lukach on ISFDB" />
+</entry>

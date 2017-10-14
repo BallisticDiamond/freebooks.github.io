@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>All the Crooked Saints</title>
+  <id>urn:book:e73989d0-1950-4831-9973-16870b740735</id>
+  <updated>2017-10-14T04:42:22Z</updated>
+  <link href="./book_9.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="All the Crooked Saints" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Maggie%20Stiefvater/All%20the%20Crooked%20Saints%20%289%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Maggie%20Stiefvater/All%20the%20Crooked%20Saints%20%289%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Maggie%20Stiefvater/All%20the%20Crooked%20Saints%20%289%29/All%20the%20Crooked%20Saints%20-%20Maggie%20Stiefvater.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <author>
+    <name>Maggie Stiefvater</name>
+    <uri>../author_0/author_8_Page_1.xml</uri>
+  </author>
+  <published>2017-10-14T06:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Scholastic Inc.</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <i xmlns="">Here is a thing everyone wants: A miracle. Here is a thing
+  everyone fears:What it takes to get one.</i>
+    <i xmlns="">USA Today</i>
+  </content>
+  <link href="../author_0/author_8_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Maggie Stiefvater" />
+  <link href="http://www.goodreads.com/book/title/All%20the%20Crooked%20Saints" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/All%20the%20Crooked%20Saints" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/All%20the%20Crooked%20Saints%20Maggie%20Stiefvater" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=All%20the%20Crooked%20Saints&amp;field-author=Maggie%20Stiefvater" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Maggie%20Stiefvater" type="text/html" rel="related" title="Maggie Stiefvater on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Maggie%20Stiefvater" type="text/html" rel="related" title="Maggie Stiefvater on Wikipedia" />
+  <link href="http://www.librarything.com/author/StiefvaterMaggie" type="text/html" rel="related" title="Maggie Stiefvater on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Maggie%20Stiefvater" type="text/html" rel="related" title="Maggie Stiefvater on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Maggie%20Stiefvater" type="text/html" rel="related" title="Maggie Stiefvater on ISFDB" />
+</entry>

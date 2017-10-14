@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The History of Bees</title>
+  <id>urn:book:1ecb729a-a4e3-45d5-815d-7c76d01ecfd1</id>
+  <updated>2017-10-14T04:42:24Z</updated>
+  <link href="./book_15.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The History of Bees" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Maja%20Lunde/The%20History%20of%20Bees%20%2815%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Maja%20Lunde/The%20History%20of%20Bees%20%2815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Maja%20Lunde/The%20History%20of%20Bees%20%2815%29/The%20History%20of%20Bees%20-%20Maja%20Lunde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <author>
+    <name>Maja Lunde</name>
+    <uri>../author_0/author_13_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Touchstone</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      In the spirit of
+      <i>Station Eleven</i>
+      and
+      <i>Never Let Me Go</i>
+      , this dazzling and ambitious literary
+    debut follows three generations of beekeepers from the past,
+    present, and future, weaving a spellbinding story of their
+    relationship to the bees—and to their children and one
+    another—against the backdrop of an urgent, global crisis.
+      <br />
+      England, 1852. William is a biologist and seed merchant,
+    who sets out to build a new type of beehive—one that will
+    give both him and his children honor and fame.
+      <br />
+      <br />
+      United States, 2007. George is a beekeeper fighting an
+    uphill battle against modern farming, but hopes that his son
+    can be their salvation.
+      <br />
+      <br />
+      China, 2098. Tao hand paints pollen onto the fruit trees
+    now that the bees have long since disappeared. When Tao's young
+    son is taken away by the authorities after a tragic accident,
+    she sets out on a grueling journey to find out what happened to
+    him.
+      <br />
+      <br />
+      Haunting, illuminating, and deftly written,
+      <i>The History...</i>
+    </p>
+  </content>
+  <link href="../author_0/author_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Maja Lunde" />
+  <link href="http://www.goodreads.com/book/title/The%20History%20of%20Bees" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20History%20of%20Bees" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20History%20of%20Bees%20Maja%20Lunde" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20History%20of%20Bees&amp;field-author=Maja%20Lunde" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Maja%20Lunde" type="text/html" rel="related" title="Maja Lunde on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Maja%20Lunde" type="text/html" rel="related" title="Maja Lunde on Wikipedia" />
+  <link href="http://www.librarything.com/author/LundeMaja" type="text/html" rel="related" title="Maja Lunde on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Maja%20Lunde" type="text/html" rel="related" title="Maja Lunde on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Maja%20Lunde" type="text/html" rel="related" title="Maja Lunde on ISFDB" />
+</entry>

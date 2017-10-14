@@ -13,6 +13,23 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
   <entry>
+    <title>Faithful</title>
+    <id>calibre:book:10</id>
+    <updated>2017-10-14T04:42:22Z</updated>
+    <link href="../../Alice%20Hoffman/Faithful%20%2810%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alice%20Hoffman/Faithful%20%2810%29/Faithful%20-%20Alice%20Hoffman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Alice Hoffman</name>
+      <uri>../author_0/author_5_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Simon &amp; Schuster</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>From the New York Times bestselling author of The Marriage of Opposites and The Dovekeepers comes a soul-searching story about a young woman struggling to redefine herself and the power of love, family, and fate.Growing up on Long Island, Shelby Rich...</summary>
+    <link href="../book_0/book_10.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>The Rules of Magic</title>
     <id>calibre:book:6</id>
     <updated>2017-10-14T03:41:53Z</updated>

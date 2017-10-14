@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Maggie Stiefvater</title>
+  <id>Calibre2opds:author:8</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_8_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Maggie Stiefvater" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>All the Crooked Saints</title>
+    <id>calibre:book:9</id>
+    <updated>2017-10-14T04:42:22Z</updated>
+    <link href="../../Maggie%20Stiefvater/All%20the%20Crooked%20Saints%20%289%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maggie%20Stiefvater/All%20the%20Crooked%20Saints%20%289%29/All%20the%20Crooked%20Saints%20-%20Maggie%20Stiefvater.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Maggie Stiefvater</name>
+      <uri>../author_0/author_8_Page_1.xml</uri>
+    </author>
+    <published>2017-10-14T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Scholastic Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Here is a thing everyone wants: A miracle. Here is a thing everyone fears:What it takes to get one. Any visitor to Bicho Raro, Colorado is likely to find a landscape of dark saints, forbidden love, scientific dreams, miracle-mad owls, estranged affec...</summary>
+    <link href="../book_0/book_9.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

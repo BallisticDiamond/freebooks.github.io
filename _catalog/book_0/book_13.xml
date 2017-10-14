@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Luster of Lost Things</title>
+  <id>urn:book:cc6cc7ed-8af5-4088-ba2a-0c8d0f2be1d3</id>
+  <updated>2017-10-14T04:42:23Z</updated>
+  <link href="./book_13.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Luster of Lost Things" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Sophie%20Chen%20Keller/The%20Luster%20of%20Lost%20Things%20%2813%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Sophie%20Chen%20Keller/The%20Luster%20of%20Lost%20Things%20%2813%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Sophie%20Chen%20Keller/The%20Luster%20of%20Lost%20Things%20%2813%29/The%20Luster%20of%20Lost%20Things%20-%20Sophie%20Chen%20Keller.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <author>
+    <name>Sophie Chen Keller</name>
+    <uri>../author_0/author_11_Page_1.xml</uri>
+  </author>
+  <published>2017-08-08T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <b xmlns="">
+      In this story for readers of
+      <i>The Curious Incident of the Dog in the Night-Time</i>
+      and
+      <i>A Man Called Ove</i>
+      , when all seems lost, he finds what
+  matters most.
+    </b>
+    <br xmlns="" />
+    <br xmlns="" />
+    <br xmlns="" />
+    <br xmlns="" />
+    <br xmlns="" />
+    <br xmlns="" />
+    <br xmlns="" />
+    <i xmlns="">The Luster of Lost Things</i>
+  </content>
+  <link href="../author_0/author_11_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Sophie Chen Keller" />
+  <link href="http://www.goodreads.com/book/title/The%20Luster%20of%20Lost%20Things" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Luster%20of%20Lost%20Things" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Luster%20of%20Lost%20Things%20Sophie%20Chen%20Keller" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Luster%20of%20Lost%20Things&amp;field-author=Sophie%20Chen%20Keller" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Sophie%20Chen%20Keller" type="text/html" rel="related" title="Sophie Chen Keller on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Sophie%20Chen%20Keller" type="text/html" rel="related" title="Sophie Chen Keller on Wikipedia" />
+  <link href="http://www.librarything.com/author/KellerSophieChen" type="text/html" rel="related" title="Sophie Chen Keller on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Sophie%20Chen%20Keller" type="text/html" rel="related" title="Sophie Chen Keller on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Sophie%20Chen%20Keller" type="text/html" rel="related" title="Sophie Chen Keller on ISFDB" />
+</entry>

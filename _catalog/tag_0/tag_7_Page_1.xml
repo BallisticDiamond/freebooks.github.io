@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Supernatural</title>
+  <id>Calibre2opds:taglist:7</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Supernatural" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <entry>
+    <title>Sleeping Beauties: A Novel</title>
+    <id>calibre:book:19</id>
+    <updated>2017-10-14T04:42:25Z</updated>
+    <link href="../../Stephen%20King/Sleeping%20Beauties_%20A%20Novel%20%2819%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Sleeping%20Beauties_%20A%20Novel%20%2819%29/Sleeping%20Beauties_%20A%20Novel%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../author_0/author_17_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Owen King</name>
+      <uri>../author_0/author_18_Page_1.xml</uri>
+    </author>
+    <published>2017-09-26T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Scribner</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Thrillers" />
+    <category term="Suspense" />
+    <category term="Horror" />
+    <category term="Supernatural" />
+    <category term="Lang:en" />
+    <summary>In this spectacular father/son collaboration, Stephen King and Owen King tell the highest of high-stakes stories: what might happen if women disappeared from the world of men?  
+In a future so real and near it might be now, something happens when wom...</summary>
+    <link href="../book_0/book_19.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ruth Ware</title>
+  <id>Calibre2opds:author:9</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_9_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ruth Ware" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>The Woman in Cabin 10</title>
+    <id>calibre:book:11</id>
+    <updated>2017-10-14T04:42:22Z</updated>
+    <link href="../../Ruth%20Ware/The%20Woman%20in%20Cabin%2010%20%2811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ruth%20Ware/The%20Woman%20in%20Cabin%2010%20%2811%29/The%20Woman%20in%20Cabin%2010%20-%20Ruth%20Ware.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Ruth Ware</name>
+      <uri>../author_0/author_9_Page_1.xml</uri>
+    </author>
+    <published>2016-07-18T09:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Gallery/Scout Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_11.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Origin</title>
+  <id>urn:book:802fde89-68ca-46af-8aa6-07cfa125dc4f</id>
+  <updated>2017-10-14T04:42:26Z</updated>
+  <link href="./book_21.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Origin" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_20_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Dan Brown" />
+  <link href="../../Dan%20Brown/Origin%20%2821%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Dan%20Brown/Origin%20%2821%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Dan%20Brown/Origin%20%2821%29/Origin%20-%20Dan%20Brown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <author>
+    <name>Dan Brown</name>
+    <uri>../author_0/author_20_Page_1.xml</uri>
+  </author>
+  <published>2017-10-02T04:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Doubleday</dcterms:publisher>
+  <category term="Mystery" />
+  <category term="Thriller" />
+  <category term="Lang:en" />
+  <category term="Robert Langdon" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 5 in the Robert Langdon series
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      *****
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Mystery, Thriller, Lang:en
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        <strong>Whoever You Are.</strong>
+        <br />
+        <strong>Whatever You Believe.</strong>
+        <br />
+        <strong>Everything Is About To Change.</strong>
+        <br />
+        <strong>
+          <br />
+          The stunningly inventive new novel from the
+      world’s most popular thriller writer
+        </strong>
+        <br />
+        <br />
+        <strong>
+          <em>Bilbao, Spain</em>
+        </strong>
+        <br />
+        <br />
+        Robert Langdon, Harvard professor of symbology and
+      religious iconology, arrives at the ultramodern Guggenheim
+      Museum Bilbao to attend a major announcement—the
+      unveiling of a discovery that “will change the face of
+      science forever.” The evening’s host is Edmond
+      Kirsch, a forty-year-old billionaire and futurist whose
+      dazzling high-tech inventions and audacious predictions have
+      made him a renowned global figure. Kirsch, who was one of
+      Langdon’s first students at Harvard two decades
+      earlier, is about to reveal an astonishing breakthrough . . .
+      one that will answer two of the fundamental questions of
+      human existence.
+        <br />
+        As the event begins, Langdon and several hundred
+      guests find themselves captivated by an utterly original
+      presentation, which Langdon realizes will be far more
+      controversial than he ever imagined. But the meticulously
+      orchestrated evening suddenly erupts into chaos, and
+      Kirsch’s precious discovery teeters on the brink of
+      being lost forever. Reeling and facing an imminent threat,
+      Langdon is forced into a desperate bid to escape Bilbao. With
+      him is Ambra Vidal, the elegant museum director who worked
+      with Kirsch to stage the provocative event. Together they
+      flee to Barcelona on a perilous quest to locate a cryptic
+      password that will unlock Kirsch’s secret.
+        <br />
+        Navigating the dark corridors of hidden history and
+      extreme religion, Langdon and Vidal must evade a tormented
+      enemy whose all-knowing power seems to emanate from
+      Spain’s Royal Palace itself . . . and who will stop at
+      nothing to silence Edmond Kirsch. On a trail marked by modern
+      art and enigmatic symbols, Langdon and Vidal uncover clues
+      that ultimately bring them face-to-face with Kirsch’s
+      shocking discovery . . . and the breathtaking truth that has
+      long eluded us.
+        <br />
+        <br />
+        <em>Origin</em>
+        is stunningly inventive—Dan Brown's
+      most brilliant and entertaining novel to date.
+      </p>
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../series_0/series_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Book 5 in the Robert Langdon series" />
+  <link href="../author_0/author_20_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Dan Brown" />
+  <link href="http://www.goodreads.com/book/title/Origin" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Origin" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Origin%20Dan%20Brown" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Origin&amp;field-author=Dan%20Brown" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Dan%20Brown" type="text/html" rel="related" title="Dan Brown on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Dan%20Brown" type="text/html" rel="related" title="Dan Brown on Wikipedia" />
+  <link href="http://www.librarything.com/author/BrownDan" type="text/html" rel="related" title="Dan Brown on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Dan%20Brown" type="text/html" rel="related" title="Dan Brown on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Dan%20Brown" type="text/html" rel="related" title="Dan Brown on ISFDB" />
+</entry>

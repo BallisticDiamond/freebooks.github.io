@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Claire Kendal</title>
+  <id>Calibre2opds:author:15</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Claire Kendal" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>The Second Sister</title>
+    <id>calibre:book:17</id>
+    <updated>2017-10-14T04:42:25Z</updated>
+    <link href="../../Claire%20Kendal/The%20Second%20Sister%20%2817%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Claire%20Kendal/The%20Second%20Sister%20%2817%29/The%20Second%20Sister%20-%20Claire%20Kendal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Claire Kendal</name>
+      <uri>../author_0/author_15_Page_1.xml</uri>
+    </author>
+    <published>2017-03-13T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins Publishers</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The chilling new psychological thriller from the author of the the top ten bestseller, THE BOOK OF YOU, which was selected for Richard and Judy in 2015. Perfect for fans of THE GIRL ON THE TRAIN and DISCLAIMER. It is ten years since Ella's sister Mir...</summary>
+    <link href="../book_0/book_17.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

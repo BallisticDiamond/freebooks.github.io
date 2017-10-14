@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Pam Grout</title>
+  <id>Calibre2opds:author:21</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_21_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Pam Grout" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Art &amp; Soul, Reloaded</title>
+    <id>calibre:book:22</id>
+    <updated>2017-10-14T04:42:26Z</updated>
+    <link href="../../Pam%20Grout/Art%20%26%20Soul%2C%20Reloaded%20%2822%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pam%20Grout/Art%20%26%20Soul%2C%20Reloaded%20%2822%29/Art%20%26%20Soul%2C%20Reloaded%20-%20Pam%20Grout.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Pam Grout</name>
+      <uri>../author_0/author_21_Page_1.xml</uri>
+    </author>
+    <published>2017-08-22T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Hay House</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>With her trademark humor, enthusiasm, and no-nonsense guidance, #1 New York Times best-selling author of E-Squared Pam Grout invites you on a yearlong "apprenticeship" to recognize and unleash your innate creativity.Making art does not necessarily me...</summary>
+    <link href="../book_0/book_22.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

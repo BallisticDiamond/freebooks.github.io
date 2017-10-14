@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Lang:en</title>
+  <id>Calibre2opds:taglist:10</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lang:en" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <entry>
+    <title>All the Crooked Saints</title>
+    <id>calibre:book:9</id>
+    <updated>2017-10-14T04:42:22Z</updated>
+    <link href="../../Maggie%20Stiefvater/All%20the%20Crooked%20Saints%20%289%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maggie%20Stiefvater/All%20the%20Crooked%20Saints%20%289%29/All%20the%20Crooked%20Saints%20-%20Maggie%20Stiefvater.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Maggie Stiefvater</name>
+      <uri>../author_0/author_8_Page_1.xml</uri>
+    </author>
+    <published>2017-10-14T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Scholastic Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Here is a thing everyone wants: A miracle. Here is a thing everyone fears:What it takes to get one. Any visitor to Bicho Raro, Colorado is likely to find a landscape of dark saints, forbidden love, scientific dreams, miracle-mad owls, estranged affec...</summary>
+    <link href="../book_0/book_9.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Art &amp; Soul, Reloaded</title>
+    <id>calibre:book:22</id>
+    <updated>2017-10-14T04:42:26Z</updated>
+    <link href="../../Pam%20Grout/Art%20%26%20Soul%2C%20Reloaded%20%2822%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pam%20Grout/Art%20%26%20Soul%2C%20Reloaded%20%2822%29/Art%20%26%20Soul%2C%20Reloaded%20-%20Pam%20Grout.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Pam Grout</name>
+      <uri>../author_0/author_21_Page_1.xml</uri>
+    </author>
+    <published>2017-08-22T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Hay House</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>With her trademark humor, enthusiasm, and no-nonsense guidance, #1 New York Times best-selling author of E-Squared Pam Grout invites you on a yearlong "apprenticeship" to recognize and unleash your innate creativity.Making art does not necessarily me...</summary>
+    <link href="../book_0/book_22.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Child Finder</title>
+    <id>calibre:book:18</id>
+    <updated>2017-10-14T04:42:25Z</updated>
+    <link href="../../Rene%20Denfeld/The%20Child%20Finder%20%2818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rene%20Denfeld/The%20Child%20Finder%20%2818%29/The%20Child%20Finder%20-%20Rene%20Denfeld.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Rene Denfeld</name>
+      <uri>../author_0/author_16_Page_1.xml</uri>
+    </author>
+    <published>2017-09-05T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_18.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Dead Husband Project</title>
+    <id>calibre:book:20</id>
+    <updated>2017-10-14T04:42:26Z</updated>
+    <link href="../../Sarah%20Meehan%20Sirk/The%20Dead%20Husband%20Project%20%2820%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sarah%20Meehan%20Sirk/The%20Dead%20Husband%20Project%20%2820%29/The%20Dead%20Husband%20Project%20-%20Sarah%20Meehan%20Sirk.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Sarah Meehan Sirk</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>2017-08-08T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Doubleday Canada</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Perfect for readers of George Saunders, Jennifer Egan and Heather O'Neill, a rich and inventive collection of exquisite short stories by a major newcomer to Canadian literature.In this deeply felt, compulsive and edgy work, Sarah Meehan Sirk shines a...</summary>
+    <link href="../book_0/book_20.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dead Spots</title>
+    <id>calibre:book:7</id>
+    <updated>2017-10-14T03:42:23Z</updated>
+    <link href="../../Rhiannon%20Frater/Dead%20Spots%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rhiannon%20Frater/Dead%20Spots%20%287%29/Dead%20Spots%20-%20Rhiannon%20Frater.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Rhiannon Frater</name>
+      <uri>../author_0/author_6_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Tom Doherty Associates</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The stillbirth of Mackenzie's son destroyed her marriage. Grieving, Mac reluctantly heads for her childhood home to seek refuge with her mother, who constantly reminds her of life's dangers.Driving across Texas, Mac swerves to avoid hitting a deer......</summary>
+    <link href="../book_0/book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Faithful</title>
+    <id>calibre:book:10</id>
+    <updated>2017-10-14T04:42:22Z</updated>
+    <link href="../../Alice%20Hoffman/Faithful%20%2810%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alice%20Hoffman/Faithful%20%2810%29/Faithful%20-%20Alice%20Hoffman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Alice Hoffman</name>
+      <uri>../author_0/author_5_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Simon &amp; Schuster</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>From the New York Times bestselling author of The Marriage of Opposites and The Dovekeepers comes a soul-searching story about a young woman struggling to redefine herself and the power of love, family, and fate.Growing up on Long Island, Shelby Rich...</summary>
+    <link href="../book_0/book_10.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Girl Who Takes an Eye for an Eye: Continuing Stieg Larsson's Millennium Series</title>
+    <id>calibre:book:16</id>
+    <updated>2017-10-14T04:42:24Z</updated>
+    <link href="../../David%20Lagercrantz/The%20Girl%20Who%20Takes%20an%20Eye%20for%20an%20Eye%20%2816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Lagercrantz/The%20Girl%20Who%20Takes%20an%20Eye%20for%20an%20Eye%20%2816%29/The%20Girl%20Who%20Takes%20an%20Eye%20for%20a%20-%20David%20Lagercrantz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>David Lagercrantz</name>
+      <uri>../author_0/author_14_Page_1.xml</uri>
+    </author>
+    <published>2017-09-06T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Quercus</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The History of Bees</title>
+    <id>calibre:book:15</id>
+    <updated>2017-10-14T04:42:24Z</updated>
+    <link href="../../Maja%20Lunde/The%20History%20of%20Bees%20%2815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Maja%20Lunde/The%20History%20of%20Bees%20%2815%29/The%20History%20of%20Bees%20-%20Maja%20Lunde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Maja Lunde</name>
+      <uri>../author_0/author_13_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Touchstone</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In the spirit of Station Eleven and Never Let Me Go, this dazzling and ambitious literary debut follows three generations of beekeepers from the past, present, and future, weaving a spellbinding story of their relationship to the bees&amp;#8212;and to th...</summary>
+    <link href="../book_0/book_15.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Last Christmas in Paris</title>
+    <id>calibre:book:5</id>
+    <updated>2017-10-14T03:41:51Z</updated>
+    <link href="../../Hazel%20Gaynor/Last%20Christmas%20in%20Paris%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hazel%20Gaynor/Last%20Christmas%20in%20Paris%20%285%29/Last%20Christmas%20in%20Paris%20-%20Hazel%20Gaynor.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Hazel Gaynor</name>
+      <uri>../author_0/author_4_Page_1.xml</uri>
+    </author>
+    <published>2017-08-17T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>New York Times bestselling author Hazel Gaynor has joined with Heather Webb to create this unforgettably romantic novel of the Great War.August 1914. England is at war. As Evie Elliott watches her brother, Will, and his best friend, Thomas Harding, d...</summary>
+    <link href="../book_0/book_5.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Lightkeeper's Daughters</title>
+    <id>calibre:book:14</id>
+    <updated>2017-10-14T04:42:23Z</updated>
+    <link href="../../Jean%20E.%20Pendziwol/The%20Lightkeeper%27s%20Daughters%20%2814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jean%20E.%20Pendziwol/The%20Lightkeeper%27s%20Daughters%20%2814%29/The%20Lightkeeper%27s%20Daughters%20-%20Jean%20E.%20Pendziwol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Jean E. Pendziwol</name>
+      <uri>../author_0/author_12_Page_1.xml</uri>
+    </author>
+    <published>2017-05-15T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>"Jean Pendziwol's beautifully written novel captured me from the very first page. Its descriptions of the windswept lightkeeper's station of Elizabeth's and Emily's youth are so crisply rendered I felt I was standing on its shores watching the great ...</summary>
+    <link href="../book_0/book_14.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Luster of Lost Things</title>
+    <id>calibre:book:13</id>
+    <updated>2017-10-14T04:42:23Z</updated>
+    <link href="../../Sophie%20Chen%20Keller/The%20Luster%20of%20Lost%20Things%20%2813%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sophie%20Chen%20Keller/The%20Luster%20of%20Lost%20Things%20%2813%29/The%20Luster%20of%20Lost%20Things%20-%20Sophie%20Chen%20Keller.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Sophie Chen Keller</name>
+      <uri>../author_0/author_11_Page_1.xml</uri>
+    </author>
+    <published>2017-08-08T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In this story for readers of The Curious Incident of the Dog in the Night-Time and A Man Called Ove, when all seems lost, he finds what matters most.Walter Lavender Jr. is a master of finding. A wearer of high-tops. A maker of croissants. A son keepi...</summary>
+    <link href="../book_0/book_13.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>My Lovely Wife in the Psych Ward</title>
+    <id>calibre:book:12</id>
+    <updated>2017-10-14T04:42:23Z</updated>
+    <link href="../../Mark%20Lukach/My%20Lovely%20Wife%20in%20the%20Psych%20Ward%20%2812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mark%20Lukach/My%20Lovely%20Wife%20in%20the%20Psych%20Ward%20%2812%29/My%20Lovely%20Wife%20in%20the%20Psych%20War%20-%20Mark%20Lukach.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Mark Lukach</name>
+      <uri>../author_0/author_10_Page_1.xml</uri>
+    </author>
+    <published>2017-05-02T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A heart-wrenching, yet hopeful, memoir of a young marriage that is redefined by mental illness and affirms the power of love.Mark and Giulia's life together began as a storybook romance. The fell in love at eighteen, married at twenty-four, and were ...</summary>
+    <link href="../book_0/book_12.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Origin</title>
+    <id>calibre:book:21</id>
+    <updated>2017-10-14T04:42:26Z</updated>
+    <link href="../../Dan%20Brown/Origin%20%2821%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dan%20Brown/Origin%20%2821%29/Origin%20-%20Dan%20Brown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Dan Brown</name>
+      <uri>../author_0/author_20_Page_1.xml</uri>
+    </author>
+    <published>2017-10-02T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Doubleday</dcterms:publisher>
+    <category term="Mystery" />
+    <category term="Thriller" />
+    <category term="Lang:en" />
+    <category term="Robert Langdon" />
+    <summary>Robert Langdon [5]: Whoever You Are. 
+Whatever You Believe. 
+Everything Is About To Change. 
+
+The stunningly inventive new novel from the world’s most popular thriller writer
+
+Bilbao, Spain
+
+Robert Langdon, Harvard professor of symbology and religiou...</summary>
+    <link href="../book_0/book_21.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Rules of Magic</title>
+    <id>calibre:book:6</id>
+    <updated>2017-10-14T03:41:53Z</updated>
+    <link href="../../Alice%20Hoffman/The%20Rules%20of%20Magic%20%286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alice%20Hoffman/The%20Rules%20of%20Magic%20%286%29/The%20Rules%20of%20Magic%20-%20Alice%20Hoffman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Alice Hoffman</name>
+      <uri>../author_0/author_5_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Simon &amp; Schuster</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>From beloved author Alice Hoffman comes the spellbinding prequel to her bestseller, Practical Magic.Find your magic. For the Owens family, love is a curse that began in 1620, when Maria Owens was charged with witchery for loving the wrong man. Hundre...</summary>
+    <link href="../book_0/book_6.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Second Sister</title>
+    <id>calibre:book:17</id>
+    <updated>2017-10-14T04:42:25Z</updated>
+    <link href="../../Claire%20Kendal/The%20Second%20Sister%20%2817%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Claire%20Kendal/The%20Second%20Sister%20%2817%29/The%20Second%20Sister%20-%20Claire%20Kendal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Claire Kendal</name>
+      <uri>../author_0/author_15_Page_1.xml</uri>
+    </author>
+    <published>2017-03-13T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins Publishers</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The chilling new psychological thriller from the author of the the top ten bestseller, THE BOOK OF YOU, which was selected for Richard and Judy in 2015. Perfect for fans of THE GIRL ON THE TRAIN and DISCLAIMER. It is ten years since Ella's sister Mir...</summary>
+    <link href="../book_0/book_17.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sleeping Beauties: A Novel</title>
+    <id>calibre:book:19</id>
+    <updated>2017-10-14T04:42:25Z</updated>
+    <link href="../../Stephen%20King/Sleeping%20Beauties_%20A%20Novel%20%2819%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Sleeping%20Beauties_%20A%20Novel%20%2819%29/Sleeping%20Beauties_%20A%20Novel%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../author_0/author_17_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Owen King</name>
+      <uri>../author_0/author_18_Page_1.xml</uri>
+    </author>
+    <published>2017-09-26T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Scribner</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Thrillers" />
+    <category term="Suspense" />
+    <category term="Horror" />
+    <category term="Supernatural" />
+    <category term="Lang:en" />
+    <summary>In this spectacular father/son collaboration, Stephen King and Owen King tell the highest of high-stakes stories: what might happen if women disappeared from the world of men?  
+In a future so real and near it might be now, something happens when wom...</summary>
+    <link href="../book_0/book_19.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Time to Say Goodbye</title>
+    <id>calibre:book:2</id>
+    <updated>2017-10-14T03:41:33Z</updated>
+    <link href="../../S.D.%20Robertson/Time%20to%20Say%20Goodbye%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../S.D.%20Robertson/Time%20to%20Say%20Goodbye%20%282%29/Time%20to%20Say%20Goodbye%20-%20S.D.%20Robertson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>S.D. Robertson</name>
+      <uri>../author_0/author_1_Page_1.xml</uri>
+    </author>
+    <published>2015-10-15T02:41:18Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins Publishers</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>**'A strong contender for my favourite book of the year ... Emotional, heart-warming, tragic, bittersweet, charming and very, very satisfying.' - Silver Thistle book blog** A heart-rending story about the unique bond between a father and his daughter...</summary>
+    <link href="../book_0/book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Turtles All the Way Down</title>
+    <id>calibre:book:3</id>
+    <updated>2017-10-14T03:41:35Z</updated>
+    <link href="../../John%20Green/Turtles%20All%20the%20Way%20Down%20%283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Green/Turtles%20All%20the%20Way%20Down%20%283%29/Turtles%20All%20the%20Way%20Down%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>John Green</name>
+      <uri>../author_0/author_2_Page_1.xml</uri>
+    </author>
+    <published>2017-10-09T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin</dcterms:publisher>
+    <category term="Young Adult" />
+    <category term="Contemporary" />
+    <category term="Lang:en" />
+    <summary>#1 bestselling author John Green returns with his first new novel since The Fault in Our Stars!
+
+Sixteen-year-old Aza never intended to pursue the mystery of fugitive billionaire Russell Pickett, but there’s a hundred-thousand-dollar reward at stake ...</summary>
+    <link href="../book_0/book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Whisper to Me</title>
+    <id>calibre:book:4</id>
+    <updated>2017-10-14T03:41:37Z</updated>
+    <link href="../../Nick%20Lake/Whisper%20to%20Me%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nick%20Lake/Whisper%20to%20Me%20%284%29/Whisper%20to%20Me%20-%20Nick%20Lake.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Nick Lake</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2016-05-02T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Bloomsbury Publishing</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A remarkable story of strange beauty and self-discovery from Printz Award winner Nick Lake.
+Cassie is writing a letter to the boy whose heart she broke. She's trying to explain why. Why she pushed him away. Why her father got so angry when he saw the...</summary>
+    <link href="../book_0/book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Woman in Cabin 10</title>
+    <id>calibre:book:11</id>
+    <updated>2017-10-14T04:42:22Z</updated>
+    <link href="../../Ruth%20Ware/The%20Woman%20in%20Cabin%2010%20%2811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ruth%20Ware/The%20Woman%20in%20Cabin%2010%20%2811%29/The%20Woman%20in%20Cabin%2010%20-%20Ruth%20Ware.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Ruth Ware</name>
+      <uri>../author_0/author_9_Page_1.xml</uri>
+    </author>
+    <published>2016-07-18T09:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Gallery/Scout Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_11.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Year of Marvellous Ways</title>
+    <id>calibre:book:8</id>
+    <updated>2017-10-14T03:42:25Z</updated>
+    <link href="../../Sarah%20Winman/A%20Year%20of%20Marvellous%20Ways%20%288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sarah%20Winman/A%20Year%20of%20Marvellous%20Ways%20%288%29/A%20Year%20of%20Marvellous%20Ways%20-%20Sarah%20Winman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Sarah Winman</name>
+      <uri>../author_0/author_7_Page_1.xml</uri>
+    </author>
+    <published>2015-06-17T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Headline</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_8.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

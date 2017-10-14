@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Girl Who Takes an Eye for an Eye: Continuing Stieg Larsson's Millennium Series</title>
+  <id>urn:book:5ec87d65-0d5f-44c8-afd4-9a980c45666a</id>
+  <updated>2017-10-14T04:42:24Z</updated>
+  <link href="./book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Girl Who Takes an Eye for an Eye: Continuing Stieg Larsson's Millennium Series" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../David%20Lagercrantz/The%20Girl%20Who%20Takes%20an%20Eye%20for%20an%20Eye%20%2816%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../David%20Lagercrantz/The%20Girl%20Who%20Takes%20an%20Eye%20for%20an%20Eye%20%2816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../David%20Lagercrantz/The%20Girl%20Who%20Takes%20an%20Eye%20for%20an%20Eye%20%2816%29/The%20Girl%20Who%20Takes%20an%20Eye%20for%20a%20-%20David%20Lagercrantz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+  <author>
+    <name>David Lagercrantz</name>
+    <uri>../author_0/author_14_Page_1.xml</uri>
+  </author>
+  <published>2017-09-06T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Quercus</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+  </content>
+  <link href="../author_0/author_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by David Lagercrantz" />
+  <link href="http://www.goodreads.com/book/title/The%20Girl%20Who%20Takes%20an%20Eye%20for%20an%20Eye%3A%20Continuing%20Stieg%20Larsson%27s%20Millennium%20Series" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/The%20Girl%20Who%20Takes%20an%20Eye%20for%20an%20Eye%3A%20Continuing%20Stieg%20Larsson%27s%20Millennium%20Series" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/The%20Girl%20Who%20Takes%20an%20Eye%20for%20an%20Eye%3A%20Continuing%20Stieg%20Larsson%27s%20Millennium%20Series%20David%20Lagercrantz" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Girl%20Who%20Takes%20an%20Eye%20for%20an%20Eye%3A%20Continuing%20Stieg%20Larsson%27s%20Millennium%20Series&amp;field-author=David%20Lagercrantz" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/David%20Lagercrantz" type="text/html" rel="related" title="David Lagercrantz on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/David%20Lagercrantz" type="text/html" rel="related" title="David Lagercrantz on Wikipedia" />
+  <link href="http://www.librarything.com/author/LagercrantzDavid" type="text/html" rel="related" title="David Lagercrantz on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=David%20Lagercrantz" type="text/html" rel="related" title="David Lagercrantz on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?David%20Lagercrantz" type="text/html" rel="related" title="David Lagercrantz on ISFDB" />
+</entry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sophie Chen Keller</title>
+  <id>Calibre2opds:author:11</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_11_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sophie Chen Keller" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Calibre library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Calibre library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>The Luster of Lost Things</title>
+    <id>calibre:book:13</id>
+    <updated>2017-10-14T04:42:23Z</updated>
+    <link href="../../Sophie%20Chen%20Keller/The%20Luster%20of%20Lost%20Things%20%2813%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sophie%20Chen%20Keller/The%20Luster%20of%20Lost%20Things%20%2813%29/The%20Luster%20of%20Lost%20Things%20-%20Sophie%20Chen%20Keller.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Sophie Chen Keller</name>
+      <uri>../author_0/author_11_Page_1.xml</uri>
+    </author>
+    <published>2017-08-08T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In this story for readers of The Curious Incident of the Dog in the Night-Time and A Man Called Ove, when all seems lost, he finds what matters most.Walter Lavender Jr. is a master of finding. A wearer of high-tops. A maker of croissants. A son keepi...</summary>
+    <link href="../book_0/book_13.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
